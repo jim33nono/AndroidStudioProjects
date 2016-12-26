@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="volt">Volt</string>
+    <string name="ampere">Ampere</string>
+    <string name="hour">Hour</string>
+    <string name="kwh">Kwh</string>
+
+    <string name="total">Total</string>
+    <string name="count">Count</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+
+</resources>

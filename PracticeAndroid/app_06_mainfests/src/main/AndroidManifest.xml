@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="test01.evan.idv.app_06_mainfests">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/cuteicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- style -->
+        <!--"Theme.AppCompat"  預設 藍色標頭-->
+        <!--"Theme.AppCompat.NoActionBar"  暗版沒標頭-->
+        <!--"Theme.AppCompat.Light.NoActionBar"  亮版沒標頭-->
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <!--主畫面啟動.MAIN -->
+                <action android:name="android.intent.action.MAIN" />
+                <!-- category = 手機程式集 , 表示也將APP放入 -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

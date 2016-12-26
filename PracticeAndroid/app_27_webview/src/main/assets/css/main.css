@@ -1,0 +1,77 @@
+<style>
+#none{}
+#header {
+    background-color:#4169E1;
+    color:white;
+    text-align:center;
+    padding:15px;
+
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:500px;
+    width:7%;
+    float:left;
+    padding:5px; 
+}
+#section {
+    background-color:#E6E6FA;
+    text-align:center;
+    width:100%;
+    height:500px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:#4169E1;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+.center {
+    margin: auto;
+    text-align:center;
+    padding: 5px;
+}
+
+
+
+.form-control2 {
+  
+	margin-bottom: 10px;  
+	text-align:center; 
+	display:inline;    
+	width:200px;
+    
+	height:50px;
+    
+	padding:6px 12px;
+    
+	font-size:24px;
+    
+	line-height:1.42857143;
+    
+	color:#555;
+    
+	background-color:#fff;
+    
+	background-image:none;
+    
+	border:1px solid #ccc;
+    
+	border-radius:4px;
+    
+	-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);
+    
+	box-shadow:inset 0 1px 1px rgba(0,0,0,.075);
+    
+	-webkit-transition:border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    
+	-o-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    
+	transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s
+
+}
+</style>

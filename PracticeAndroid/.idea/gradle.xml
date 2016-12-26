@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app2_01_pushnotification" />
+            <option value="$PROJECT_DIR$/app2_03_notification" />
+            <option value="$PROJECT_DIR$/app2_06_listservice" />
+            <option value="$PROJECT_DIR$/app2_07_startservice" />
+            <option value="$PROJECT_DIR$/app2_08_bindservice" />
+            <option value="$PROJECT_DIR$/app2_09_parse" />
+            <option value="$PROJECT_DIR$/app2_10_gps" />
+            <option value="$PROJECT_DIR$/app2_11_map" />
+            <option value="$PROJECT_DIR$/app2_12_map2" />
+            <option value="$PROJECT_DIR$/app2_13_map3" />
+            <option value="$PROJECT_DIR$/app2_14_map_gps_parse" />
+            <option value="$PROJECT_DIR$/app_01_hello" />
+            <option value="$PROJECT_DIR$/app_02_fresco" />
+            <option value="$PROJECT_DIR$/app_02_picasso" />
+            <option value="$PROJECT_DIR$/app_03_logcat" />
+            <option value="$PROJECT_DIR$/app_04_land" />
+            <option value="$PROJECT_DIR$/app_05_locale" />
+            <option value="$PROJECT_DIR$/app_06_mainfests" />
+            <option value="$PROJECT_DIR$/app_07_rjava" />
+            <option value="$PROJECT_DIR$/app_08_interactiveview" />
+            <option value="$PROJECT_DIR$/app_09_interactivetouch" />
+            <option value="$PROJECT_DIR$/app_10_bingo" />
+            <option value="$PROJECT_DIR$/app_11_layout" />
+            <option value="$PROJECT_DIR$/app_12_bmi" />
+            <option value="$PROJECT_DIR$/app_13_spa" />
+            <option value="$PROJECT_DIR$/app_14_life" />
+            <option value="$PROJECT_DIR$/app_15_gophersgame" />
+            <option value="$PROJECT_DIR$/app_16_thread" />
+            <option value="$PROJECT_DIR$/app_17_schulet" />
+            <option value="$PROJECT_DIR$/app_18_spinner" />
+            <option value="$PROJECT_DIR$/app_19_tariff_calculation" />
+            <option value="$PROJECT_DIR$/app_20_mcdonalds" />
+            <option value="$PROJECT_DIR$/app_21_finance" />
+            <option value="$PROJECT_DIR$/app_22_chat" />
+            <option value="$PROJECT_DIR$/app_23_intentresult" />
+            <option value="$PROJECT_DIR$/app_24_camera" />
+            <option value="$PROJECT_DIR$/app_25_popwindow" />
+            <option value="$PROJECT_DIR$/app_26_gallery" />
+            <option value="$PROJECT_DIR$/app_27_webview" />
+            <option value="$PROJECT_DIR$/app_28_finance" />
+            <option value="$PROJECT_DIR$/app_29_weather" />
+            <option value="$PROJECT_DIR$/app_30_animal" />
+            <option value="$PROJECT_DIR$/app_31_animal_gridview" />
+            <option value="$PROJECT_DIR$/app_32_jsoup" />
+            <option value="$PROJECT_DIR$/app_33_menu" />
+            <option value="$PROJECT_DIR$/app_34_threadmessage" />
+            <option value="$PROJECT_DIR$/app_35_progressbar" />
+            <option value="$PROJECT_DIR$/app_36_progressbar" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

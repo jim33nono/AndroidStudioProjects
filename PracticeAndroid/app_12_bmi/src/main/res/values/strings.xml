@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_12_BMI</string>
+    <string name="input_height">Input Height</string>
+    <string name="input_width">Input Width</string>
+    <string name="btn_commit">Commit</string>
+    <string name="bmi_light">Too Light</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_fat">Too Fat</string>
+
+
+</resources>

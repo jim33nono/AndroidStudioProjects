@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_20_McDonalds</string>
+
+
+    <string name="action_settings">可樂</string>
+    <string name="action_settings2">沙拉</string>
+    <string name="action_settings3">冰淇淋</string>
+</resources>

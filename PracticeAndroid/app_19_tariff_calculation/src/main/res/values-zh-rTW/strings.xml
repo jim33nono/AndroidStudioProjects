@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_19</string>
+
+    <string name="tv_title" >電費計算器</string>
+    <string name="tv_volt">伏特(V)</string>
+    <string name="tv_ampere">安培(A)</string>
+    <string name="tv_hours_day">每天使用時數</string>
+    <string name="tv_electricity">每度電費</string>
+    <string name="btn_calculate">計算</string>
+
+</resources>

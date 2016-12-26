@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_19</string>
+
+    <string name="tv_title" >Energy Charge Calculating</string>
+    <string name="tv_volt">Volt(V)</string>
+    <string name="tv_ampere">Ampere(A)</string>
+    <string name="tv_hours_day">Hours/Day</string>
+    <string name="tv_electricity">Degree</string>
+    <string name="btn_calculate">Calculate</string>
+
+</resources>

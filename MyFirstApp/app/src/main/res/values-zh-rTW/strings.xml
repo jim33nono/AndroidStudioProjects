@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+    <string name="volt">伏特</string>
+    <string name="ampere">安培</string>
+    <string name="hour">時數</string>
+    <string name="kwh">度數</string>
+
+    <string name="total">總計:</string>
+    <string name="count">計算</string>
+</resources>

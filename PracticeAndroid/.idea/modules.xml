@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PracticeAndroid.iml" filepath="$PROJECT_DIR$/PracticeAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_01_pushnotification/app2_01_pushnotification.iml" filepath="$PROJECT_DIR$/app2_01_pushnotification/app2_01_pushnotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_03_notification/app2_03_notification.iml" filepath="$PROJECT_DIR$/app2_03_notification/app2_03_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_06_listservice/app2_06_listservice.iml" filepath="$PROJECT_DIR$/app2_06_listservice/app2_06_listservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_07_startservice/app2_07_startservice.iml" filepath="$PROJECT_DIR$/app2_07_startservice/app2_07_startservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_08_bindservice/app2_08_bindservice.iml" filepath="$PROJECT_DIR$/app2_08_bindservice/app2_08_bindservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_09_parse/app2_09_parse.iml" filepath="$PROJECT_DIR$/app2_09_parse/app2_09_parse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_10_gps/app2_10_gps.iml" filepath="$PROJECT_DIR$/app2_10_gps/app2_10_gps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_11_map/app2_11_map.iml" filepath="$PROJECT_DIR$/app2_11_map/app2_11_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_12_map2/app2_12_map2.iml" filepath="$PROJECT_DIR$/app2_12_map2/app2_12_map2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_13_map3/app2_13_map3.iml" filepath="$PROJECT_DIR$/app2_13_map3/app2_13_map3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_14_map_gps_parse/app2_14_map_gps_parse.iml" filepath="$PROJECT_DIR$/app2_14_map_gps_parse/app2_14_map_gps_parse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_01_hello/app_01_hello.iml" filepath="$PROJECT_DIR$/app_01_hello/app_01_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_02_fresco/app_02_fresco.iml" filepath="$PROJECT_DIR$/app_02_fresco/app_02_fresco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_02_picasso/app_02_picasso.iml" filepath="$PROJECT_DIR$/app_02_picasso/app_02_picasso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_03_logcat/app_03_logcat.iml" filepath="$PROJECT_DIR$/app_03_logcat/app_03_logcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_04_land/app_04_land.iml" filepath="$PROJECT_DIR$/app_04_land/app_04_land.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_05_locale/app_05_locale.iml" filepath="$PROJECT_DIR$/app_05_locale/app_05_locale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_06_mainfests/app_06_mainfests.iml" filepath="$PROJECT_DIR$/app_06_mainfests/app_06_mainfests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_07_rjava/app_07_rjava.iml" filepath="$PROJECT_DIR$/app_07_rjava/app_07_rjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_08_interactiveview/app_08_interactiveview.iml" filepath="$PROJECT_DIR$/app_08_interactiveview/app_08_interactiveview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_09_interactivetouch/app_09_interactivetouch.iml" filepath="$PROJECT_DIR$/app_09_interactivetouch/app_09_interactivetouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_10_bingo/app_10_bingo.iml" filepath="$PROJECT_DIR$/app_10_bingo/app_10_bingo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_11_layout/app_11_layout.iml" filepath="$PROJECT_DIR$/app_11_layout/app_11_layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_12_bmi/app_12_bmi.iml" filepath="$PROJECT_DIR$/app_12_bmi/app_12_bmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_13_spa/app_13_spa.iml" filepath="$PROJECT_DIR$/app_13_spa/app_13_spa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_14_life/app_14_life.iml" filepath="$PROJECT_DIR$/app_14_life/app_14_life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_15_gophersgame/app_15_gophersgame.iml" filepath="$PROJECT_DIR$/app_15_gophersgame/app_15_gophersgame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_16_thread/app_16_thread.iml" filepath="$PROJECT_DIR$/app_16_thread/app_16_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_17_schulet/app_17_schulet.iml" filepath="$PROJECT_DIR$/app_17_schulet/app_17_schulet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_18_spinner/app_18_spinner.iml" filepath="$PROJECT_DIR$/app_18_spinner/app_18_spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_19_tariff_calculation/app_19_tariff_calculation.iml" filepath="$PROJECT_DIR$/app_19_tariff_calculation/app_19_tariff_calculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_20_mcdonalds/app_20_mcdonalds.iml" filepath="$PROJECT_DIR$/app_20_mcdonalds/app_20_mcdonalds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_21_finance/app_21_finance.iml" filepath="$PROJECT_DIR$/app_21_finance/app_21_finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_22_chat/app_22_chat.iml" filepath="$PROJECT_DIR$/app_22_chat/app_22_chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_23_intentresult/app_23_intentresult.iml" filepath="$PROJECT_DIR$/app_23_intentresult/app_23_intentresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_24_camera/app_24_camera.iml" filepath="$PROJECT_DIR$/app_24_camera/app_24_camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_25_popwindow/app_25_popwindow.iml" filepath="$PROJECT_DIR$/app_25_popwindow/app_25_popwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_26_gallery/app_26_gallery.iml" filepath="$PROJECT_DIR$/app_26_gallery/app_26_gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_27_webview/app_27_webview.iml" filepath="$PROJECT_DIR$/app_27_webview/app_27_webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_28_finance/app_28_finance.iml" filepath="$PROJECT_DIR$/app_28_finance/app_28_finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_29_weather/app_29_weather.iml" filepath="$PROJECT_DIR$/app_29_weather/app_29_weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_30_animal/app_30_animal.iml" filepath="$PROJECT_DIR$/app_30_animal/app_30_animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_31_animal_gridview/app_31_animal_gridview.iml" filepath="$PROJECT_DIR$/app_31_animal_gridview/app_31_animal_gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_32_jsoup/app_32_jsoup.iml" filepath="$PROJECT_DIR$/app_32_jsoup/app_32_jsoup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_33_menu/app_33_menu.iml" filepath="$PROJECT_DIR$/app_33_menu/app_33_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_34_threadmessage/app_34_threadmessage.iml" filepath="$PROJECT_DIR$/app_34_threadmessage/app_34_threadmessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_35_progressbar/app_35_progressbar.iml" filepath="$PROJECT_DIR$/app_35_progressbar/app_35_progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_36_progressbar/app_36_progressbar.iml" filepath="$PROJECT_DIR$/app_36_progressbar/app_36_progressbar.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App_24_ Camera</string>
+    <string name="action_settings">分享文字</string>
+    <string name="action_settings2">分享圖片</string>
+    <string name="action_settings3">分享多件</string>
+</resources>
